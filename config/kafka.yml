@@ -1,0 +1,3 @@
+url: localhost:9092
+topic: kafkatopic
+group_id: consumer_group

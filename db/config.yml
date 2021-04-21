@@ -1,0 +1,8 @@
+development:
+  host: '0.0.0.0'
+  port: '3306'
+  pool: 6
+  encoding: utf8
+  adapter: 'mysql2'
+  database: 'kafka'
+  username: 'root'
